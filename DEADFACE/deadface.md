@@ -12,5 +12,5 @@ Date: 21 October 2023
 |   Individual   |          1360           |
 |      Team      |          3750           |
 
-## Challenges Solved 
+## Challenges I Solved ...
 <img width="1146" alt="image" src="https://github.com/visyat/ctf_writeups/assets/135551666/5743b82b-c50f-4476-8295-9b8d219a8700">
